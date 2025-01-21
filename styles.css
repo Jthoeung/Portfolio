@@ -1,16 +1,25 @@
 
 
 h1 { text-align: center; 
-color:lightpink
+color: #9965fa;
+
+
 
 }
+
+.prata-regular {
+    font-family: "Prata", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
 
 address{text-align: center;}
 h2{text-align: center;}
 
 .tabs{
     display: flex;
-    background-color: #8df3fc;
+    background-color: #a779fc;
     overflow: hidden;
 }
 
@@ -48,3 +57,20 @@ h2{text-align: center;}
 .tab-page.active{
     display:block;
 }
+
+body{
+    background: #c5abf4;
+}
+
+.center-photo{
+
+    text-align: center;
+    
+}
+
+img{
+    border: 15px solid rgb(253, 249, 251);
+}
+
+
+
