@@ -43,10 +43,9 @@ img{
     
 }
 
-.carousel-item{
-    background-color: pink;
+.carousel-inner{
+    background-color:rgb(210, 177, 237);
     height: 100vh;
-    
 }
 
 
