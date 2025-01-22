@@ -1,0 +1,47 @@
+.colored-nav{
+    background-color: rgb(188, 125, 240);
+    color: rgb(4, 4, 5);
+}
+
+h1{
+    text-align: center;
+    
+}
+
+.newfont{
+
+    font-family: "Prat", serif;
+    font-weight: 400;
+   font-style: normal;
+
+}
+
+.navbar-nav{
+
+    font-family: "Prat", serif;
+    font-weight: 800;
+   font-style: normal;
+
+}
+
+.navbar-brand{
+    font-family: "Prat", serif;
+    font-weight: 1000;
+   font-style: normal;
+}
+
+img{
+    border: 15px solid rgb(248, 249, 250);
+    
+}
+
+.center-photo{
+    text-align: center;
+}
+.under-nav{
+    background-color: rgb(210, 177, 237);
+    
+}
+
+
+ 
