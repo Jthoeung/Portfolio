@@ -45,8 +45,15 @@ img{
 
 .carousel-inner{
     background-color:rgb(210, 177, 237);
-    height: 100vh;
+    min-height: 100vh;
+    display: flex;
+    
 }
+
+.page-slide{
+    padding: 30px;
+}
+    
 
 
  
