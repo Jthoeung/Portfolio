@@ -33,6 +33,7 @@ h1{
 img{
     border: 15px solid rgb(248, 249, 250);
     
+    
 }
 
 .center-photo{
@@ -53,7 +54,10 @@ img{
 .page-slide{
     padding: 30px;
 }
-    
 
+.btn{
+    margin-top: 10px;
+}
+    
 
  
