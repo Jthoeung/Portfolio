@@ -1,5 +1,5 @@
 .colored-nav{
-    background-color: rgb(188, 125, 240);
+    background-color: #c9ada7;
     color: rgb(4, 4, 5);
 }
 
@@ -13,6 +13,16 @@ h1{
     font-family: "Prat", serif;
     font-weight: 400;
    font-style: normal;
+
+}
+
+.newfont-intro{
+
+    font-family: "Prat", serif;
+    font-weight: 400;
+   font-style: normal;
+   font-size: 20px;
+   align-content: center;
 
 }
 
@@ -31,8 +41,7 @@ h1{
 }
 
 img{
-    border: 15px solid rgb(248, 249, 250);
-    
+    border: 15px solid #22223b;  
     
 }
 
@@ -40,12 +49,16 @@ img{
     text-align: center;
 }
 .under-nav{
-    background-color: rgb(210, 177, 237);
+    background-color: #f2e9e4;
+    
+}
+.under2{
+    background-color: #f2e9e4;
     
 }
 
 .carousel-inner{
-    background-color:rgb(210, 177, 237);
+    background-color: #f2e9e4;
     min-height: 100vh;
     display: flex;
     
@@ -57,6 +70,7 @@ img{
 
 .btn{
     margin-top: 10px;
+    
 }
     
 
